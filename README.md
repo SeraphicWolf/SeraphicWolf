@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Godot.**
 
-- 👨‍💻 All of my projects are available at [https://seraphicwolf.github.io/projects/](https://seraphicwolf.github.io/projects/)
+- 👨‍💻 All of my projects are available at [https://vnull.buzz/projects/](https://vnull.buzz/projects/)
 
-- 📝 I regularly write articles on [https://seraphicwolf.github.io/](https://seraphicwolf.github.io/)
+- 📝 I regularly write articles on [https://vnull.buzz/](https://vnull.buzz/)
 
 - 💬 Ask me about **Anything!**
 
