@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seraphicwolf" alt="seraphicwolf" /></a> </p>
 
-- 🔭 I’m currently working on [EnchantedNebula](https://www.curseforge.com/terraria/mods/enchanted-nebula)
+- 🔭 I’m currently working on [Imp Origin](https://modrinth.com/datapack/origins-imp)
 
 - 🌱 I’m currently learning **Flutter, Godot.**
 
