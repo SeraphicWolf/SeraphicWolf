@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **Not Yet Ready**
+- 📫 How to reach me :Email me at: vnull@proton.me
 
 - ⚡ Fun fact **I'm a Furry and Gamer!**
 
