@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Godot.**
 
-- 👨‍💻 All of my projects are available at [https://vnull.buzz/projects/](https://vnull.buzz/projects/)
+- 👨‍💻 All of my projects are available at []()
 
-- 📝 I regularly write articles on [https://vnull.buzz/](https://vnull.buzz/)
+- 📝 I regularly write articles on []()
 
 - 💬 Ask me about **Anything!**
 
